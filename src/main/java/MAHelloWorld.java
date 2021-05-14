@@ -7,7 +7,7 @@ public class MAHelloWorld {
     public static void Hello(){
         System.out.print("Hello World ");
     }public static void Mate(){
-        System.out.print("and Mate!");
+        System.out.print("and Mate");
     }
 
 }
